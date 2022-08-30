@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Flacky\'s Boxing App</string>
+    <string name="gloves_description">gloves</string>
+    <string name="_3_00">3:00</string>
+    <string name="round_length">Round Length</string>
+    <string name="rest_time">Rest Time</string>
+    <string name="rounds">Rounds</string>
+    <string name="_1_00">1:00</string>
+    <string name="_5">5</string>
+    <string name="total_time_19_00">Total Time: 19:00</string>
+    <string name="flacky_s_boxing_app">Flacky\'s Boxing App</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_start_time">StartTime</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="enter_preparation_time">Enter Preparation Time</string>
+    <string name="_0_30">0:30</string>
+    <string name="prepare">Prepare</string>
+</resources>
